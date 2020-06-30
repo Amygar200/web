@@ -17,7 +17,7 @@ function mayor($n1,$n2){
         echo "Son iguales".$n1."y".$n2;
     }
 }
-mayor(3,4,1);
+mayor(3,4);
 echo "</br></br>";
 function cuadrado($num){
     $cua=$num*$num;
